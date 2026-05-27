@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2d07c23b-aaf8-42f2-bd8b-86d1a0e17e30",
+			"database_name": "instant-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
